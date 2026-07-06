@@ -13,7 +13,7 @@ Build an AI-powered application using Amazon PartyRock to explore Generative AI 
 
 ## Live Application
 
-https://partyrock.aws/u/Bluelight/uONJelGXn/Career-Growth-Planner-Pro
+[Open the AI Application](https://partyrock.aws/u/Bluelight/uONJelGXn/Career-Growth-Planner-Pro)
 
 ## Project Summary
 
