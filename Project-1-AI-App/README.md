@@ -17,4 +17,8 @@ Build an AI-powered application using Amazon PartyRock to explore Generative AI 
 
 ## Project Summary
 
-This project was developed as part of my AWS AI and Machine Learning learning journey.
+## Project Summary
+
+Career Growth Planner Pro is an AI-powered application built using Amazon PartyRock. It helps users create personalized career development plans by generating learning paths, skills to develop, and practical recommendations based on their career goals.
+
+This project demonstrates how Generative AI can support career planning through effective prompt engineering and AI application design.
