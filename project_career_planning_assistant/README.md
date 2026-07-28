@@ -1,4 +1,4 @@
-# 🎯 Career Planning Assistant
+# 🎯 Career Growth Planner
 
 ## Project Overview
 
