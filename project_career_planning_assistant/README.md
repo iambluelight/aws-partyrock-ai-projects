@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Career Planning Assistant is a Generative AI application built using AWS PartyRock. It helps users explore career paths, identify relevant skills, receive personalized learning recommendations, and generate practical career development advice through natural language prompts.
+The Career Growth Planner is a Generative AI application built using AWS PartyRock. It helps users explore career paths, identify relevant skills, receive personalized learning recommendations, and generate practical career development advice through natural language prompts.
 
 This project demonstrates how Generative AI can assist individuals in making informed career decisions while improving productivity and access to personalized guidance.
 
