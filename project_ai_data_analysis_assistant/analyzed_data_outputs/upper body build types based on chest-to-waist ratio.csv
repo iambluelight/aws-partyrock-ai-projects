@@ -1,0 +1,4 @@
+build_type,count,percentage,avg_height,avg_chest,avg_waist,avg_chest_waist_ratio,avg_bicep,avg_shoulder
+Straight Build (C/W <1.05),145,7.19,177,114.14,111.93,1.021,34.08,37.86
+Moderate Taper (C/W 1.05-1.15),1027,50.89,172.53,102.89,93.02,1.107,30.81,36.03
+Athletic Taper (C/W >1.15),846,41.92,170.86,98.23,82.12,1.197,29.29,35.22

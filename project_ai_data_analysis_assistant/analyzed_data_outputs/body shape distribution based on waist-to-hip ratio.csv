@@ -1,0 +1,4 @@
+body_shape,count,percentage,avg_height,avg_chest,avg_waist,avg_hip,avg_whr
+Pear Shape (WHR <0.85),765,37.91,168.14,93.87,79.82,98.41,0.811
+Balanced (WHR 0.85-0.95),983,48.71,174.2,104.24,92.61,103.42,0.895
+Apple Shape (WHR >0.95),270,13.38,176.06,114.96,107.95,109.33,0.987

@@ -1,0 +1,4 @@
+leg_proportion,count,percentage,avg_height,avg_leg_length,avg_leg_percentage,avg_torso_length,avg_arm_length
+Short Legs (<44%),206,10.21,170.58,74.05,43.41,67.35,47.86
+Average Legs (44-47%),1611,79.83,171.99,78.26,45.5,64.85,49.54
+Long Legs (>47%),201,9.96,175.03,83.27,47.57,63.57,51.9

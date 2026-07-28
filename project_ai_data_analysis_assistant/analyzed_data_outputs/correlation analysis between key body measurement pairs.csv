@@ -1,0 +1,16 @@
+measurement_pair,correlation,strength
+Chest vs Waist,0.927,Very Strong
+Height vs Arm Length,0.913,Very Strong
+Height vs Leg Length,0.91,Very Strong
+Height vs Shoulder-to-Crotch,0.901,Very Strong
+Thigh vs Hip,0.892,Very Strong
+Bicep vs Forearm,0.889,Very Strong
+Wrist vs Forearm,0.883,Very Strong
+Hip vs Waist,0.88,Very Strong
+Bicep vs Chest,0.851,Very Strong
+Calf vs Thigh,0.795,Strong
+Ankle vs Calf,0.762,Strong
+Thigh vs Waist,0.744,Strong
+Shoulder Breadth vs Chest,0.72,Strong
+Height vs Chest,0.415,Moderate
+Height vs Waist,0.389,Weak
