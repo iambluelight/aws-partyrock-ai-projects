@@ -61,11 +61,9 @@ This project strengthened my understanding of prompt engineering, AI-assisted ap
 
 ---
 
-## Author
+## Live Demo
 
-## Author
+🌐 Try the application here:
 
-Gift Inyangobong Effiong
-
-Building practical AI, Automation, and Data Annotation projects while continuously expanding expertise in Generative AI and Machine Learning.
+https://partyrock.aws/u/Bluelight/uONJelGXn/Career-Growth-Planner-Pro
 
